@@ -3,3 +3,4 @@ npm
 unzip
 gcc
 python-venv
+yarn
